@@ -6,9 +6,13 @@ Final-year Business Management student at Manchester Metropolitan University, bu
 
 ### What I build with
 
-`Python` `FastAPI` `Flask` `PostgreSQL` `SQLAlchemy` `Alembic` `pytest` `Docker` `GitHub Actions` `React` `SQL` `Power BI`
+`Python` `FastAPI` `Flask` `PostgreSQL` `Redis` `SQLAlchemy` `Alembic` `pytest` `Docker` `GitHub Actions` `React` `SQL` `Power BI`
 
 ### Featured projects
+
+**[Onboarding Playbook Tracker](https://github.com/mohamedalsayed12/onboarding-playbook-tracker)**
+Multi-tenant customer onboarding API and dashboard: invites, stage progression, reusable playbooks, stuck-user views and rollout summaries.
+FastAPI · PostgreSQL · Redis · Docker · tenant isolation · argon2 / JWT
 
 **[Gym Social Media](https://github.com/mohamedalsayed12/gym-social-media)**
 A gym social app: log workouts set by set, automatic PR detection, follows, likes and communities.
